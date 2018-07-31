@@ -602,7 +602,7 @@ app.post('/createTemporaryReulgarUser', function(req, res) {
 
 function push(merchantID) {
  setTimeout(async function() {
-    axios.post('https://merchant-id-users.herokuapp.com/updateDeviceToken', {
+    axios.post('https://fast-pass.herokuapp.com/updateDeviceToken', {
     	userID: merchantID
     })
     .then(function(response) {

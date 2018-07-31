@@ -1,7 +1,7 @@
 {
   "name": "challenge",
   "version": "1.0.0",
-  "description": "https://merchant-id-users.herokuapp.com",
+  "description": "https://fast-pass.herokuapp.com",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
@@ -33,7 +33,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Bruce-Decker/merchantID-and-users-info.git"
+    "url": "git+https://github.com/LHLL/FastPassServer.git"
   },
   "bugs": {
     "url": "https://github.com/Bruce-Decker/merchantID-and-users-info/issues"
